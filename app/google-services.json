@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "613452057643",
+    "firebase_url": "https://shoppinglistplusplus-v1.firebaseio.com",
+    "project_id": "shoppinglistplusplus-v1",
+    "storage_bucket": "shoppinglistplusplus-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613452057643:android:e6f1f82ea9534a5f",
+        "android_client_info": {
+          "package_name": "com.example.dell.shoppinglist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613452057643-8ucokcqo6r7ahqfu0etqinkbea9ackin.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.shoppinglist",
+            "certificate_hash": "9235b316502d005d252bcb5da5e094ca60f5197d"
+          }
+        },
+        {
+          "client_id": "613452057643-v0kt1gmjbbq2ul6njc3gp9u4gra1mru6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjpS1KdV3EyiPSXlHdP0D5DqUzGSZWCBU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613452057643-v0kt1gmjbbq2ul6njc3gp9u4gra1mru6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
